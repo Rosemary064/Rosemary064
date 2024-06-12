@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rosemary064
-- 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ...front head development
-- 💞️ I’m looking to collaborate on ...all legal busineses
-- 📫 How to reach me .email@rosenduati06@gmail.com
+- 👋 Hi there, I’m Rosemary
+- 👀 I’m a curious frontend developer
+- 🌱 I’m currently learning ...backend development
+- 💞️ I’m looking to collaborate on any open source project
+- 📫 How to reach me .email: @rosenduati06@gmail.com linkediIn: www.linkedin.com/in/rose-nduati-7234bb239
 
 <!---
 Rosemary064/Rosemary064 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
